@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CommandDesignPatternTest")]
+[assembly: AssemblyTitle("StringCalculatorKataTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyProduct("CommandDesignPatternTest")]
+[assembly: AssemblyProduct("StringCalculatorKataTest")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -18,7 +18,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("82ea1743-030f-4477-b930-19076b516ed8")]
+[assembly: Guid("caacbd4e-6815-4c4c-8d42-92222f567fa0")]
 
 // Version information for an assembly consists of the following four values:
 //

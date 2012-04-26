@@ -8,9 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CommandDesignPattern")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ADP AdvancedMD")]
 [assembly: AssemblyProduct("CommandDesignPattern")]
-[assembly: AssemblyCopyright("Copyright © ADP AdvancedMD 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
